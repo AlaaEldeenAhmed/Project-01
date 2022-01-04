@@ -10,7 +10,7 @@ namespace Project_01.Calculator
     {
         public static int Addd(int NumberOne, int NumberTwo)
         {
-            var Sum = NumberOne + NumberTwo;
+            var Sum = NumberOne - NumberTwo;
             return Sum;
         }
     }
